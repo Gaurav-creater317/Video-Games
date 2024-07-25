@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+}
+
+
+
+h3{
+    color: red;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+span {
+    color: blue;    
+
+}
+.grid{
+  width: 400px;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
